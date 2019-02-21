@@ -1,4 +1,4 @@
-package com.stackroute;com.mypackage.MyClass
+package com.stackroute;
 
 
 public class App
