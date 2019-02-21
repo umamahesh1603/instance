@@ -42,7 +42,7 @@
           <manifest>
             <addClasspath>true</addClasspath>
             <classpathPrefix>lib/</classpathPrefix>
-            <mainClass>com.stackroute</mainClass>
+            <mainClass>com.stackroute.App</mainClass>
           </manifest>
         </archive>
       </configuration>
